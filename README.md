@@ -7,4 +7,3 @@
 
 opt. either import photos into the explorer to use for your projects or using external media link them into the cards.
 
-bonus. see if you can add a section between the Main and the footer, with a container with a "about me" section for your protfolio site.
